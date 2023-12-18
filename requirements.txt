@@ -1,0 +1,8 @@
+requests
+requests
+bs4
+pandas
+numpy
+lxml
+openpyxl
+matplotlib
